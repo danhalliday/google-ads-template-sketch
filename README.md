@@ -1,4 +1,4 @@
-# Google Ads Template for SKetch
+# Google Ads Template for Sketch
 
 A simple template with artboards for all the regular Google ad sizes:
 
